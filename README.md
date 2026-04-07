@@ -47,7 +47,7 @@ Post statuses: `DRAFT`, `PUBLISHED`, `ARCHIVED`
 
 | Variable | Description |
 |----------|-------------|
-| `DATABASE_URL` | PostgreSQL connection string (auto-provisioned by Replit) |
+| `DATABASE_URL` | PostgreSQL connection string  |
 | `JWT_ACCESS_SECRET` | Secret for signing access tokens |
 | `JWT_REFRESH_SECRET` | Secret for signing refresh tokens |
 | `CLOUDINARY_CLOUD_NAME` | Cloudinary cloud name (for avatar uploads) |
